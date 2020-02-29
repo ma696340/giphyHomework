@@ -50,7 +50,7 @@ $(document).ready(function(){
           snackDiv.append(p);
           snackDiv.append(snackImage);
 
-          $("#animals").append(snackDiv);
+          $("#snacks").append(snackDiv);
         }
       });
 
